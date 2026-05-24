@@ -70,14 +70,17 @@ Solutions for various problems from CodeForces.
 ---
 
 
-# 🔗 Profiles
+# About Me 
+- MD Sami Akhlaq
+- Studying at Saic Institute of Mannagement & Technology, Dept of CSE
 
-- GitHub: [samiakhlaq](https://github.com/samiakhlaq)
-- Linkedin : [MD Sami Akhlaq](https://linkedin.com/in/md-sami-akhlaq-2838b0334/)
+
+- [![GitHub](https://img.shields.io/badge/-GitHub-black.svg?logo=github&logoColor=white)](https://github.com/samiakhlaq)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sami-akhlaq-2838b0334/)
 
 ---
 
-# ⭐ Goal
+#  Goal
 
 - Improve problem-solving skills
 - Practice competitive programming
